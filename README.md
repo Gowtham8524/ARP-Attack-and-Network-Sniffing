@@ -40,15 +40,15 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
-![alt text](<Wftp.jpg>)
 
+![alt text](<img/WhatsApp Image 2025-11-19 at 23.35.59_e43fd966.jpg>)
 
 
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
+![alt text](<img/WhatsApp Image 2025-11-19 at 23.40.47_d5a5ef35.jpg>)
 
-![alt text](<etter5.jpg>)
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
